@@ -20,7 +20,7 @@ The project includes an effective graphical interface for controlling the parame
 # How  to run it 
 1. Clone the repository: 
 ```
-git clone https://github.com/guglielmofratticioli/Granulider.git
+git clone https://github.com/polimi-cmls-23/Group7-hw-SC-LemonJuice.git
 ```
 2. Open in Supercollider the file:
 ```
