@@ -11,10 +11,12 @@ The project includes an effective graphical interface for controlling the parame
 
 # Repository content:
 
-- src folder : contains the sources files ('main.scd', 'core.scd', 'gui.scd')
-- res/samples : contains 13 samples
-- Foley Sounds : contains 5 examples of created Foley sounds 
-- Report
+- src folder : Contains the sources files ('main.scd', 'core.scd', 'gui.scd')
+- res/samples : Contains 13 samples
+- Foley Sounds : Contains 5 examples of created Foley sounds 
+- 'Presentation HW1 group 7.pdf' : Pdf presentation of the project
+- 'Report_Group7_HW1.pdf' : Report 
+- 'Video-hw1-group7.mp4' : demo video of the synth
 
 
 # How  to run it 
